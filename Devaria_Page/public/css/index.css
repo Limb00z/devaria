@@ -15,6 +15,13 @@ main section abbr{
     color: #25cbd3;
 }
 
+#descricao-foto{
+    font-size: 10px;
+    position:absolute;
+    top: 60%;
+    left: 25%;
+}
+
 @media screen and (min-width: 992px) {
     .cover-container{
         display: inline-block;
